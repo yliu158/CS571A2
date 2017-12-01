@@ -1,0 +1,9 @@
+#define TRUE 1
+#define FALSE 0
+#define CONJ 2
+#define DISJ 3
+#define IMPL 4
+#define NEGT 5
+#define LEFT 6
+#define RIGHT 7
+#define MAX_LENGTH 100
